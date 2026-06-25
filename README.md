@@ -23,6 +23,14 @@ My methodological approach combines Big Data analysis and generative models with
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
@@ -37,14 +45,6 @@ My methodological approach combines Big Data analysis and generative models with
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Git Bash
     </td>
   </tr>
   <tr>
@@ -99,8 +99,12 @@ My methodological approach combines Big Data analysis and generative models with
       <br>KNIME
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/simple-icons/deepnote.svg?color=white" width="48" height="48" alt="Deepnote" />
-      <br>Deepnote
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Git Bash
     </td>
   </tr>
 </table>
