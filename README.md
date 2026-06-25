@@ -1,6 +1,6 @@
-# Hi, I'm Jaime Claure
+# Hi, I'm Jaime Claure (`@Jaibytes`)
 
-*M.Sc. in Data Science & AI (UCB) | DevOps Specialist | Systems Engineer | Digital Transformation | Business Intelligence & Data Infrastructure*
+*M.Sc. in Data Science & AI (UCB) | DevOps Specialist | Systems Engineer | Business Intelligence & Data Infrastructure*
 
 ---
 
@@ -18,29 +18,89 @@ My methodological approach combines Big Data analysis and generative models with
 
 <table>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="100">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>NextJS
     </td>
-    <td align="center" width="100">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Git Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="100">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="DevOps" />
-      <br>CI/CD
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+      <br>Google Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=colab" width="48" height="48" alt="Google Colab" />
+      <br>Google Colab
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=looker" width="48" height="48" alt="Looker Studio" />
+      <br>Looker Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/simple-icons/knime.svg?color=white" width="48" height="48" alt="KNIME" />
+      <br>KNIME
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/deepnote/deepnote-icon.svg" width="48" height="48" alt="Deepnote" />
+      <br>Deepnote
     </td>
   </tr>
 </table>
@@ -54,7 +114,7 @@ My methodological approach combines Big Data analysis and generative models with
 <p align="center">
   <!-- GitHub Streak -->
   <a href="https://github.com/Jaibytes">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaibytes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Jaibytes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
   <br><br>
   <!-- Top Languages -->
