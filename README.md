@@ -121,4 +121,10 @@ Connect with me to review data projects, engineering articles, and corporate sol
   <a href="https://www.jaimeclaure.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-jaimeclaure.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+  <a href="https://medium.com/@jaimeclaure" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://beacons.ai/jaibytes" target="_blank">
+    <img src="https://img.shields.io/badge/Beacons-000000?style=for-the-badge&logo=beaconsdotai&logoColor=white" />
+  </a>
 </p>
