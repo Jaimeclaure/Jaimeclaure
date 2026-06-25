@@ -1,6 +1,6 @@
-# Hi, I'm Jaime Claure (`@Jaibytes`)
+# Hi, I'm Jaime Claure
 
-*M.Sc. in Data Science & AI (UCB) | DevOps Specialist | Systems Engineer | Business Intelligence & Data Infrastructure*
+*M.Sc. in Data Science & AI (UCB) | DevOps Specialist | Systems Engineer | Digital Transformation | Business Intelligence & Data Infrastructure*
 
 ---
 
@@ -49,11 +49,21 @@ My methodological approach combines Big Data analysis and generative models with
 
 ### <img src="https://api.iconify.design/lucide/line-chart.svg?color=%237aa2f7" width="24" height="24" alt="Performance Metrics Icon" style="vertical-align: middle" /> Automated Performance & Activity Metrics
 
-*These dynamic statistics update automatically with every repository commit to track engineering deployment impact:*
+*A dynamic overview of my GitHub activity, language usage, and achievements:*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaibytes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jaime's GitHub Stats" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaibytes&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages Used" width="320" />
+<p align="center">
+  <!-- GitHub Streak -->
+  <a href="https://github.com/Jaibytes">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaibytes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaibytes&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10&card_width=320" alt="Top Languages Used" />
+  <br><br>
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jaibytes&theme=tokyonight&column=7&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
