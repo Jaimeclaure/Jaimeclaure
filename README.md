@@ -1,16 +1,16 @@
 # Hi, I'm Jaime Claure 
 
-*M.Sc. in Data Science & AI (UCB) | DevOps Specialist | Systems Engineer | Business Intelligence & Data Infrastructure*
+*M.Sc. in Data Science & AI | DevOps Specialist | Systems Engineer | Business Intelligence & Data Infrastructure*
 
 ---
 
 ### <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%237aa2f7" width="24" height="24" alt="Technical Overview Icon" style="vertical-align: middle" /> Technical Overview
 
-As a Digital Transformation Strategist and specialist at the intersection of **Data Science, Artificial Intelligence, and Software Engineering**, I leverage over a decade of experience to translate complex data into robust software architectures, efficient automations, and high-impact business solutions.
+As a Digital Transformation Strategist specialising at the intersection of Data Science, Artificial Intelligence and Software Engineering, I use my experience spanning over a decade to translate complex data into robust Software Architectures, efficient automation and high-impact business solutions.
 
-As an M.Sc. in Data Science & Applied AI, I design and deploy end-to-end software projects and DevOps environments. My technical stack is centered on full-stack development and data engineering using **Python** and **NextJS**, with expertise in both SQL (**PostgreSQL**) and NoSQL (**MongoDB**) databases. In the AI domain, I implement Machine Learning and Deep Learning (ML/DL) architectures, integrating advanced models and pipelines via **Hugging Face** within CI/CD environments.
+With an M.Sc. in Data Science and Applied AI, I design and deploy end-to-end software projects and DevOps environments. My stack focuses on Full-Stack development and Data Engineering using Python and Next.JS. I have expertise in both PostgreSQL and MongoDB databases. In the AI domain, I implement Machine Learning and Deep Learning architectures, integrating advanced models and pipelines via Hugging Face within CI/CD environments.
 
-My methodological approach combines Big Data analysis and generative models with **Scrum and Agile practices**. This synergy allows me to lead multidisciplinary engineering teams, optimizing the Software Development Life Cycle (SDLC) to ensure scalability, efficiency, and technological innovation in corporate products.
+My methodological approach combines Big Data analysis and generative models with Scrum and Agile practices. This synergy allows me to lead multidisciplinary engineering teams, optimizing the Software Development Life Cycle to ensure scalability, efficiency, and technological innovation in corporate products.
 
 ---
 
