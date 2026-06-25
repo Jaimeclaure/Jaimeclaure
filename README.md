@@ -1,12 +1,12 @@
 # Hi, I'm Jaime Claure 
 
-*Systems Engineer with an MSc. in Data Science, Deep Learning & AI • DevOps Specialist | Digital Transformation Strategist | Business Intelligence & Data Infrastructure*
+*Systems Engineer with an MSc. in Data Science, Deep Learning & AI | DevOps Specialist | Digital Transformation Strategist*
 
 ---
 
 ### <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%237aa2f7" width="24" height="24" alt="Technical Overview Icon" style="vertical-align: middle" /> Technical Overview
 
-As a Digital Transformation Strategist specialising at the intersection of Data Science, Artificial Intelligence and Software Engineering, I use my experience spanning over a decade to translate complex data into robust Software Architectures, efficient automation and high-impact business solutions.
+As a Digital Transformation Strategist specialising at the intersection of Data Science, Artificial Intelligence and Software Engineering, I use my experience spanning over a decade to translate complex data into robust Software Architectures, efficient automation and high-impact Business Intelligence & Data Infrastructure solutions.
 
 With an M.Sc. in Data Science and Applied AI, I design and deploy end-to-end software projects and DevOps environments. My stack focuses on Full-Stack development and Data Engineering using Python and Next.JS. I have expertise in both PostgreSQL and MongoDB databases. In the AI domain, I implement Machine Learning and Deep Learning architectures, integrating advanced models and pipelines via Hugging Face within CI/CD environments.
 
