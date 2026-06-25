@@ -1,4 +1,4 @@
-# Hi, I'm Jaime Claure (`@Jaibytes`)
+# Hi, I'm Jaime Claure 
 
 *M.Sc. in Data Science & AI (UCB) | DevOps Specialist | Systems Engineer | Business Intelligence & Data Infrastructure*
 
@@ -79,19 +79,19 @@ My methodological approach combines Big Data analysis and generative models with
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" alt="Streamlit" />
+      <img src="https://api.iconify.design/simple-icons/streamlit.svg?color=white" width="48" height="48" alt="Streamlit" />
       <br>Streamlit
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=colab" width="48" height="48" alt="Google Colab" />
+      <img src="https://api.iconify.design/simple-icons/googlecolab.svg?color=white" width="48" height="48" alt="Google Colab" />
       <br>Google Colab
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+      <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=white" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=looker" width="48" height="48" alt="Looker Studio" />
+      <img src="https://api.iconify.design/simple-icons/looker.svg?color=white" width="48" height="48" alt="Looker Studio" />
       <br>Looker Studio
     </td>
     <td align="center" width="96">
@@ -99,32 +99,11 @@ My methodological approach combines Big Data analysis and generative models with
       <br>KNIME
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/deepnote/deepnote-icon.svg" width="48" height="48" alt="Deepnote" />
+      <img src="https://api.iconify.design/simple-icons/deepnote.svg?color=white" width="48" height="48" alt="Deepnote" />
       <br>Deepnote
     </td>
   </tr>
 </table>
-
----
-
-### <img src="https://api.iconify.design/lucide/line-chart.svg?color=%237aa2f7" width="24" height="24" alt="Performance Metrics Icon" style="vertical-align: middle" /> Automated Performance & Activity Metrics
-
-*A dynamic overview of my GitHub activity, language usage, and achievements:*
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <a href="https://github.com/Jaibytes">
-    <img src="https://streak-stats.demolab.com/?user=Jaibytes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-  <br><br>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaibytes&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10&card_width=320" alt="Top Languages Used" />
-  <br><br>
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jaibytes&theme=tokyonight&column=7&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
