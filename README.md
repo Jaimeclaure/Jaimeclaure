@@ -1,6 +1,6 @@
 # Hi, I'm Jaime Claure 
 
-*M.Sc. in Data Science & AI | DevOps Specialist | Systems Engineer | Business Intelligence & Data Infrastructure*
+*Systems Engineer with an MSc. in Data Science, Deep Learning & AI • DevOps Specialist | Digital Transformation Strategist | Business Intelligence & Data Infrastructure*
 
 ---
 
